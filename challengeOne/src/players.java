@@ -4,7 +4,6 @@ public class players {
         System.out.println(calculateHighScorePosition(1500));
         int value =0;
         String name = "Hridu";
-        boolean
 
 
     }
