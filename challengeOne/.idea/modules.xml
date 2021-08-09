@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DayOfTheWeekChallenge/DayOfTheWeekChallenge.iml" filepath="$PROJECT_DIR$/../DayOfTheWeekChallenge/DayOfTheWeekChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpeedConverter/SpeedConverter.iml" filepath="$PROJECT_DIR$/SpeedConverter/SpeedConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sum3and5/Sum3and5.iml" filepath="$PROJECT_DIR$/sum3and5/Sum3and5.iml" />
       <module fileurl="file://$PROJECT_DIR$/challengeOne.iml" filepath="$PROJECT_DIR$/challengeOne.iml" />
       <module fileurl="file://$PROJECT_DIR$/methodOver/methodOver.iml" filepath="$PROJECT_DIR$/methodOver/methodOver.iml" />
     </modules>
