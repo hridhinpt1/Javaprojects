@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/SpeedConverter/SpeedConverter.iml" filepath="$PROJECT_DIR$/SpeedConverter/SpeedConverter.iml" />
       <module fileurl="file://$PROJECT_DIR$/sum3and5/Sum3and5.iml" filepath="$PROJECT_DIR$/sum3and5/Sum3and5.iml" />
       <module fileurl="file://$PROJECT_DIR$/challengeOne.iml" filepath="$PROJECT_DIR$/challengeOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../evenDigitSum/evenDigitSum.iml" filepath="$PROJECT_DIR$/../evenDigitSum/evenDigitSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../flourpackproblem/flourpackproblem.iml" filepath="$PROJECT_DIR$/../flourpackproblem/flourpackproblem.iml" />
       <module fileurl="file://$PROJECT_DIR$/methodOver/methodOver.iml" filepath="$PROJECT_DIR$/methodOver/methodOver.iml" />
       <module fileurl="file://$PROJECT_DIR$/../numberPalindrom/numberPalindrom.iml" filepath="$PROJECT_DIR$/../numberPalindrom/numberPalindrom.iml" />
       <module fileurl="file://$PROJECT_DIR$/../textDigitsum/textDigitsum.iml" filepath="$PROJECT_DIR$/../textDigitsum/textDigitsum.iml" />
