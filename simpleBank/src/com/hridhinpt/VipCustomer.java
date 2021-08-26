@@ -27,7 +27,6 @@ public class VipCustomer {
         System.out.println("Customer Email "+email);
         System.out.println("Credit Limit "+creditLimit);
 
-
     }
 
 
